@@ -1,1 +1,1 @@
-# -vue-composition-api-sample
+# vue-composition-api-sample
